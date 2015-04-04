@@ -27,6 +27,10 @@ var states;
         changeState(currentState);
         constants.engineSound.stop();
     }
+
+
+
+
     states.tryAgainClicked = tryAgainClicked;
     // Game Over Scene
     function gameOver() {
