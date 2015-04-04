@@ -29,6 +29,8 @@ var states;
     }
 
 
+
+
     states.tryAgainClicked = tryAgainClicked;
     // Game Over Scene
     function gameOver() {
